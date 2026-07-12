@@ -34,10 +34,10 @@ class HoangThang:
         return "Thanks for stopping by! Let's build something practical."
 ```
 
-- 🔭 **Đang xây:** `minigpt-vietnamese` — Transformer decoder (char/BPE tokenizer) viết từ đầu bằng PyTorch, tối ưu để train được trên GPU 4GB VRAM
-- 🔍 **RAG pipeline hoàn chỉnh:** Docling → hybrid chunking → bge-m3 → Chroma → BM25 + Dense (RRF) → Cross-encoder Reranking → Answer Verification
-- 📊 **Quan tâm đặc biệt:** đánh giá nghiêm túc — golden set, RAGAS metrics, confidence intervals, không tin "demo chạy được là xong"
-- 🌱 **Triết lý học:** hiểu sâu cơ chế bên dưới trước khi để AI viết code hộ
+- 🔭 **Currently building:** `minigpt-vietnamese` — a decoder-only Transformer (char/BPE tokenizer) written from scratch in PyTorch, optimized to train on a 4GB VRAM GPU
+- 🔍 **End-to-end RAG pipeline:** Docling → hybrid chunking → bge-m3 → Chroma → BM25 + Dense (RRF) → Cross-encoder Reranking → Answer Verification
+- 📊 **Big on evaluation rigor:** golden sets, RAGAS metrics, confidence intervals — "the demo runs" is not proof it works
+- 🌱 **Learning philosophy:** understand the mechanism deeply before letting AI write the code
 
 <br/>
 
@@ -45,22 +45,14 @@ class HoangThang:
 
 <div align="center">
 
-### AI / Machine Learning
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" height="45"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/XGBoost-0073B7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+### Core
+<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,git&theme=dark" height="45"/>
 
-`RAG` · `Hybrid Search (BM25 + Dense + RRF)` · `Cross-encoder Reranking` · `bge-m3` · `PhoBERT` · `RAGAS Evaluation`
+### AI Stack (from my projects)
+`Transformer (from scratch)` · `bge-m3` · `ChromaDB` · `Hybrid Search (BM25 + Dense)` · `Cross-encoder Reranking` · `RAGAS` · `XGBoost` · `CNN`
 
-### Backend & Web
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,react,nextjs,ts&theme=dark" height="45"/>
-
-### Database & DevOps
-<img src="https://skillicons.dev/icons?i=postgres,redis,docker,nginx,git,linux&theme=dark" height="45"/>
+### Tools
+`Jupyter Notebook` · `Streamlit` · `Docling`
 
 </div>
 
@@ -81,12 +73,7 @@ class HoangThang:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BIN9721&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1b27"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BIN9721&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BIN9721&theme=tokyonight&hide_border=true&background=1a1b27"/>
+  <img src="https://streak-stats.demolab.com/?user=BIN9721&theme=tokyonight&hide_border=true&background=1a1b27"/>
 </div>
 
 <div align="center">
